@@ -1,0 +1,28 @@
+.circle-with-a-plus{
+    width: 32px;
+    height: 32px;
+    border: 2px solid #FE5F1E;
+    border-radius: 20px;
+    position: relative;
+    cursor: pointer;
+}
+
+.plus-stick-one{
+    width: 14px;
+    height: 4px;
+    background: #FE5F1E;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+
+.plus-stick-two{
+    width: 13px;
+    height: 4px;
+    background: #FE5F1E;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%) rotate(90deg);
+}

@@ -1,0 +1,10 @@
+.active-page{
+    color: green;
+    font-weight: bold;
+}
+
+.pagination-block{
+    display: flex;
+    justify-content: center;
+    gap: 20px;
+}

@@ -1,0 +1,433 @@
+{
+  "products": [
+    {
+      "id": 0,
+      "imageUrl": "https://dodopizza.azureedge.net/static/Img/Products/f035c7f46c0844069722f2bb3ee9f113_584x584.jpeg",
+      "name": "Пепперони Фреш с перцем",
+      "price": 803,
+      "category": 1
+    },
+    {
+      "id": 1,
+      "imageUrl": "https://dodopizza.azureedge.net/static/Img/Products/Pizza/ru-RU/2ffc31bb-132c-4c99-b894-53f7107a1441.jpg",
+      "name": "Сырная",
+      "price": 245,
+      "category": 1
+    },
+    {
+      "id": 2,
+      "imageUrl": "https://dodopizza.azureedge.net/static/Img/Products/Pizza/ru-RU/6652fec1-04df-49d8-8744-232f1032c44b.jpg",
+      "name": "Цыпленок барбекю",
+      "price": 295,
+      "category": 1
+    },
+    {
+      "id": 3,
+      "imageUrl": "https://dodopizza.azureedge.net/static/Img/Products/Pizza/ru-RU/af553bf5-3887-4501-b88e-8f0f55229429.jpg",
+      "name": "Кисло-сладкий цыпленок",
+      "price": 275,
+      "category": 1
+    },
+    {
+      "id": 4,
+      "imageUrl": "https://dodopizza.azureedge.net/static/Img/Products/Pizza/ru-RU/b750f576-4a83-48e6-a283-5a8efb68c35d.jpg",
+      "name": "Чизбургер-пицца",
+      "price": 415,
+      "category": 1
+    },
+    {
+      "id": 5,
+      "imageUrl": "https://dodopizza.azureedge.net/static/Img/Products/Pizza/ru-RU/1e1a6e80-b3ba-4a44-b6b9-beae5b1fbf27.jpg",
+      "name": "Крэйзи пепперони",
+      "price": 580,
+      "category": 1
+    },
+    {
+      "id": 6,
+      "imageUrl": "https://dodopizza.azureedge.net/static/Img/Products/Pizza/ru-RU/d2e337e9-e07a-4199-9cc1-501cc44cb8f8.jpg",
+      "name": "Пепперони",
+      "price": 675,
+      "category": 1
+    },
+    {
+      "id": 7,
+      "imageUrl": "https://dodopizza.azureedge.net/static/Img/Products/Pizza/ru-RU/d48003cd-902c-420d-9f28-92d9dc5f73b4.jpg",
+      "name": "Маргарита",
+      "price": 450,
+      "category": 1
+    },
+    {
+      "id": 8,
+      "imageUrl": "https://dodopizza.azureedge.net/static/Img/Products/Pizza/ru-RU/ec29465e-606b-4a04-a03e-da3940d37e0e.jpg",
+      "name": "Четыре сезона",
+      "price": 395,
+      "category": 1
+    },
+    {
+      "id": 9,
+      "imageUrl": "https://dodopizza.azureedge.net/static/Img/Products/Pizza/ru-RU/30367198-f3bd-44ed-9314-6f717960da07.jpg",
+      "name": "Овощи и грибы 🌱",
+      "price": 285,
+      "category": 1
+    },
+    {
+      "id": 10,
+      "imageUrl": "https://dodopizza-a.akamaihd.net/static/Img/Products/d30242be31454f698db2028aed954e40_366x366.jpeg",
+      "name": "Coca-Cola",
+      "price": 200,
+      "category": 2
+    },
+    {
+      "id": 11,
+      "imageUrl": "https://dodopizza-a.akamaihd.net/static/Img/Products/c5781875bf694dbc97bc327455cd87d9_366x366.jpeg",
+      "name": "FanTa",
+      "price": 180,
+      "category": 2
+    },
+    {
+      "id": 12,
+      "imageUrl": "https://dodopizza-a.akamaihd.net/static/Img/Products/f6bc23666a2447dfb5ff814f72f455bd_366x366.jpeg",
+      "name": "FuzeTea Зеленый с манго и ромашкой",
+      "price": 180,
+      "category": 2
+    },
+    {
+      "id": 13,
+      "imageUrl": "https://dodopizza-a.akamaihd.net/static/Img/Products/5fd4dcc4135b4ce1b2dbf6df3e1f91e2_1875x1875.jpeg",
+      "name": "BonAqua, негазированная",
+      "price": 180,
+      "category": 2
+    },
+    {
+      "id": 14,
+      "imageUrl": "https://dodopizza-a.akamaihd.net/static/Img/Products/6598f883172948848216234fb2b47a38_1875x1875.jpeg",
+      "name": "Какао с маршмеллоу",
+      "price": 180,
+      "category": 2
+    },
+    {
+      "id": 15,
+      "imageUrl": "https://dodopizza-a.akamaihd.net/static/Img/Products/4c4be1059e5c4643887258b0ff49a557_1875x1875.jpeg",
+      "name": "Вишневый пирог",
+      "price": 280,
+      "category": 3
+    },
+    {
+      "id": 16,
+      "imageUrl": "https://dodopizza-a.akamaihd.net/static/Img/Products/3664b90773914229ace5ed1b32ae8324_1875x1875.jpeg",
+      "name": "Пончики Тройной шоколад и Клубничный",
+      "price": 380,
+      "category": 3
+    }
+  ],
+  "reviews": [
+    {
+      "review": "dasdasdas",
+      "productId": "1",
+      "author": "das",
+      "id": 5
+    },
+    {
+      "review": "asda",
+      "productId": "1",
+      "author": "dsad",
+      "id": 6
+    },
+    {
+      "review": "",
+      "productId": "1",
+      "author": "SYKAAAAA",
+      "id": 7
+    },
+    {
+      "review": "dd",
+      "productId": "1",
+      "author": "dsadas",
+      "id": 8
+    },
+    {
+      "review": "sdsadadadsad",
+      "productId": "1",
+      "author": "sdadasdasda",
+      "id": 9
+    },
+    {
+      "review": "sdsadadadsad",
+      "productId": "1",
+      "author": "sdadasdasda",
+      "id": 10
+    },
+    {
+      "review": "dsadasdasdad",
+      "productId": "1",
+      "author": "dsadasdas",
+      "id": 11
+    },
+    {
+      "review": "dsadasdasdad",
+      "productId": "1",
+      "author": "dsadasdas",
+      "id": 12
+    },
+    {
+      "review": "dsadasdasdad",
+      "productId": "1",
+      "author": "dsadasdasaaaaaaaaaaaaaaaaaaaa",
+      "id": 13
+    },
+    {
+      "review": "dsadasdasdad",
+      "productId": "1",
+      "author": "dsadasdasaaaaaaaaaaaaaaaaaaaa",
+      "id": 14
+    },
+    {
+      "review": "dsadasdasdad",
+      "productId": "1",
+      "author": "dsadasdasaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa",
+      "id": 15
+    },
+    {
+      "review": "dsadasdasdad",
+      "productId": "1",
+      "author": "dsadasdasaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa",
+      "id": 16
+    },
+    {
+      "review": "asdasdasd",
+      "productId": "6",
+      "author": "dasd",
+      "id": 17
+    },
+    {
+      "review": "sdasdsa",
+      "productId": "6",
+      "author": "dsa",
+      "id": 18
+    },
+    {
+      "review": "dasdasd",
+      "productId": "6",
+      "author": "dsa",
+      "id": 19
+    },
+    {
+      "review": "asdasdas",
+      "productId": "6",
+      "author": "asd",
+      "id": 20
+    },
+    {
+      "review": "asdasdasddas",
+      "productId": "6",
+      "author": "aaaaaaaaaaaaa",
+      "id": 21
+    },
+    {
+      "review": "dsadsad",
+      "productId": "2",
+      "author": "sdas",
+      "id": 22
+    },
+    {
+      "review": "dsadsad",
+      "productId": "2",
+      "author": "PIZDEC BLYAT YA EBAL NAHUI",
+      "id": 23
+    },
+    {
+      "review": "dsadsad",
+      "productId": "2",
+      "author": "PIZDEC BLYAT YA EBAL NAHUI",
+      "id": 24
+    },
+    {
+      "review": "",
+      "productId": "1",
+      "author": "но",
+      "id": 25
+    },
+    {
+      "review": "КОНТЕНТ",
+      "productId": "1",
+      "author": "АВТОР",
+      "id": 26
+    },
+    {
+      "review": "dasd",
+      "productId": "1",
+      "author": "new ayh",
+      "id": 27
+    },
+    {
+      "review": "dasdad",
+      "productId": "1",
+      "author": "new auhsada",
+      "id": 28
+    },
+    {
+      "review": "",
+      "productId": "1",
+      "author": "",
+      "id": 29
+    },
+    {
+      "review": "вфыв",
+      "productId": "1",
+      "author": "новый отщывфывфывф",
+      "id": 30
+    },
+    {
+      "review": "вфыв",
+      "productId": "1",
+      "author": "",
+      "id": 31
+    },
+    {
+      "review": "",
+      "productId": "1",
+      "author": "",
+      "id": 32
+    },
+    {
+      "review": "asdasdadasdsadada",
+      "productId": "1",
+      "author": "dasdads",
+      "id": 33
+    },
+    {
+      "review": "asdasdadasdsadada",
+      "productId": "1",
+      "author": "dasdads",
+      "id": 34
+    },
+    {
+      "review": "ффывфвыфывфывфы",
+      "productId": "1",
+      "author": "ффывфыв",
+      "id": 35
+    },
+    {
+      "review": "dasdasdasdasd",
+      "productId": "3",
+      "author": "adsaasdasd",
+      "id": 36
+    },
+    {
+      "review": "dasdasdasdasd",
+      "productId": "16",
+      "author": "dasasdad",
+      "id": 37
+    },
+    {
+      "review": "dasdasdasdasdasdasda",
+      "productId": "16",
+      "author": "dasasdadadads",
+      "id": 38
+    },
+    {
+      "review": "dasdasdasdasdasdasdasdda",
+      "productId": "16",
+      "author": "dasasdadadadssdasdsa",
+      "id": 39
+    },
+    {
+      "review": "dasdasdasdasdasdasdasdda",
+      "productId": "16",
+      "author": "dasasdadadadssdasdssadasda",
+      "id": 40
+    },
+    {
+      "review": "sadasdasdasdasds",
+      "productId": "5",
+      "author": "adsdaasdas",
+      "id": 41
+    },
+    {
+      "review": "dasdasdasda",
+      "productId": "12",
+      "author": "dasdas",
+      "id": 42
+    },
+    {
+      "review": "вфывфыввыфвфыв",
+      "productId": "14",
+      "author": "новый отыв",
+      "id": 43
+    },
+    {
+      "review": "вфывфыввыфвфыв",
+      "productId": "14",
+      "author": "вфывфывфывфывфывфывфыв",
+      "id": 44
+    },
+    {
+      "review": "asddsadasdasdasd",
+      "productId": "10",
+      "author": "dasddasdasdasd",
+      "id": 45
+    },
+    {
+      "review": "фывфывфывфыв",
+      "productId": "1",
+      "author": "выфввыфвфыв",
+      "id": 46
+    },
+    {
+      "review": "фывфывфывфыв",
+      "productId": "2",
+      "author": "новый отщыв",
+      "id": 47
+    },
+    {
+      "review": "dasdasdasdasdad",
+      "productId": "11",
+      "author": "adasdsadasd",
+      "id": 48
+    },
+    {
+      "review": "ыфвыфвфывфывфывфыв",
+      "productId": "1",
+      "author": "новый отзыв",
+      "id": 49
+    },
+    {
+      "review": "dasdasdadasdsadsadad",
+      "productId": "1",
+      "author": "new sajdasdasda",
+      "id": 50
+    }
+  ],
+  "categories": [
+    {
+      "id": 1,
+      "name": "Пиццы"
+    },
+    {
+      "id": 2,
+      "name": "Напитки"
+    },
+    {
+      "id": 3,
+      "name": "Дессерты"
+    }
+  ],
+  "countProducts": [
+    {
+      "idCategory": 1,
+      "countProductsCategory": 10
+    },
+    {
+      "idCategory": 2,
+      "countProductsCategory": 5
+    },
+    {
+      "idCategory": 3,
+      "countProductsCategory": 2
+    },
+    {
+      "idCategory": null,
+      "totalCountProducts": 17
+    }
+  ]
+}
